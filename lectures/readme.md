@@ -1,6 +1,6 @@
 # Advanced Programming [![Build Status](https://api.travis-ci.org/asartori86/advanced_programming_2019-20.svg?branch=master)](https://travis-ci.org/asartori86/advanced_programming_2019-20)
 
-**ATTENTION**: This repo was a forked version of [this](https://github.com/asartori86/advanced_programming_2019-20) repo, so all information here provided are owned by the [Alberto Sartori](https://github.com/asartori86).
+**ATTENTION**: This repo was a forked version of [this](https://github.com/asartori86/advanced_programming_2019-20) repo, so all information here provided are owned by [Alberto Sartori](https://github.com/asartori86).
 
 [SISSA webpage](http://www.math.sissa.it/course/phd-course-master-course/advanced-programming-1)
 
